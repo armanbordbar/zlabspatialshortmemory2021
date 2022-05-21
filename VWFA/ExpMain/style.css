@@ -1,0 +1,221 @@
+body {
+    margin: 0px;
+    background-color: rgb(128,128,128)
+}
+
+#P1-SubjInfo {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+ #Msg-Inset {
+    margin: auto;
+    text-align: center;
+}
+#insetID {
+    margin: auto;
+    text-align: center;
+    font-family: 'Work Sans';
+    font-size: 20px;
+    padding-top: 18px;
+    margin-bottom: 35px;
+}
+#textBox {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+#submit {
+      margin: auto;
+    width: 120px;
+    height: 35px;
+    top: 60%;
+    font-family: 'Work Sans';
+    background-color: #4236eb;
+    padding-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    color: #22b35e;
+    cursor: pointer;
+
+}
+#P2-Hello {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#Hello {
+    margin: auto;
+    text-align: center;
+}
+#hello {
+    font-family: 'Work Sans';
+    font-size: 26px;
+}
+#Welcome {
+    margin: auto;
+    text-align: center;
+}
+#welcome {
+    font-family: 'Work Sans';
+    font-size: 26px;
+}
+#P3-Instruction {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#Instruction1 {
+    margin: auto;
+    text-align: center;
+}
+#instruction1 {
+    font-family: 'Work Sans';
+    font-size: 26px;
+}
+#Instruction2 {
+    margin: auto;
+    text-align: center;
+}
+#instruction2 {
+    font-family: 'Work Sans';
+    font-size: 26px;
+}
+#Instruction3 {
+    margin: auto;
+    text-align: center;
+}
+#instruction3 {
+    font-family: 'Work Sans';
+    font-size: 26px;
+}
+#Instruction4 {
+    margin: auto;
+    text-align: center;
+}
+#instruction4 {
+    font-family: 'Work Sans';
+    font-size: 26px;
+}
+#P4-Instruction {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#Instruction5 {
+    margin: auto;
+    text-align: center;
+}
+#instruction5 {
+    font-family: 'Work Sans';
+    font-size: 26px;
+}
+#P5-Instruction {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#Instruction6 {
+    margin: auto;
+    text-align: center;
+}
+#instruction6 {
+    font-family: 'Work Sans';
+    font-size: 26px;
+}
+#P6-Training {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#Feedback {
+    margin: auto;
+    text-align: center;
+}
+#feedback {
+    font-family: 'Work Sans';
+    font-size: 26px;
+}
+#Picture {
+    margin: auto;
+    text-align: center;
+}
+#Output {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#output {
+    margin: auto;
+    text-align: center;
+    font-family: 'Work Sans';
+    font-size: 26px;
+}
+
+#P7-Training {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#What2DoMessage
+{
+    margin: auto;
+    text-align: center;
+}
+
+#what2domessage
+{
+    font-family: 'Work Sans';
+    font-size: 26px;
+}
+
+#Practice {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#PracticePicture {
+    margin: auto;
+    text-align: center;
+}
+#ResultHeader {
+    display: none;
+}
+#subid {
+    display: none;
+}
+#CrossSection {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#CrossDiv {
+    margin: auto;
+    text-align: center;
+}
+#fixation {
+    margin: auto;
+  color: rgb(0, 0, 0);
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 5em;
+  font-weight: 50;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+}
